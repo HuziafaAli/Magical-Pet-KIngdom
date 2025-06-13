@@ -1,4 +1,4 @@
-# 🐉 Pet Battle Quest
+# 🐉 Magical-Pet-KIngdom
 
 Pet Battle Quest is a **2D game** developed in **C++ and SFML**, where players manage a team of mythical creatures (Pets), raise their levels, and send them into battle against enemies. Players can buy items, train their pets, form powerful teams, and conquer their enemies in a rich PvE experience.
 

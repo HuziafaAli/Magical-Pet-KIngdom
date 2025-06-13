@@ -1,7 +1,3 @@
-//Huziafa Ali
-//24i-3114
-//SE-C
-//#OOP-PROJECT
 
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
